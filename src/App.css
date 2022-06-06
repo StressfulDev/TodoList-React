@@ -1,0 +1,12 @@
+.App {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.dark-theme {
+  background: rgb(46, 46, 46);
+  color: whitesmoke;
+}
+
+
